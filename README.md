@@ -90,6 +90,7 @@ endmodule
 
 
 **RTL realization 
+
 ![image](https://github.com/user-attachments/assets/427e50d1-ed8e-49bd-95dd-5f7faa3761c0)
 
 
@@ -100,5 +101,7 @@ Output:**
 
 
 **Result:**
+
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
